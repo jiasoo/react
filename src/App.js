@@ -8,6 +8,7 @@ function App() {
   // 변수 
   const name = "Hong";
   let age = 30;
+  let gende = ture;
   // 객체
   const naver = {
     name : "네이버",
